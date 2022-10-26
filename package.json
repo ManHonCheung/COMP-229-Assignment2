@@ -44,16 +44,16 @@
     "@types/passport-local": "^1.0.33",
     "@types/passport-local-mongoose": "^4.0.13"
   },
-  "description": "A demo app for COMP229 Week 6",
+  "description": "COMP229 Assignment2",
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tsiliopoulos/COMP229-F2020-Lesson6.git"
+    "url": "git+https://github.com/ManHonCheung/COMP-229-Assignment2.git"
   },
-  "author": "Tom Tsiliopoulos",
+  "author": "Man Hon Cheung",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tsiliopoulos/COMP229-F2020-Lesson6/issues"
+    "url": "https://github.com/ManHonCheung/COMP-229-Assignment2.git/issues"
   },
-  "homepage": "https://github.com/tsiliopoulos/COMP229-F2020-Lesson6#readme"
+  "homepage": "https://github.com/ManHonCheung/COMP-229-Assignment2.git#readme"
 }
